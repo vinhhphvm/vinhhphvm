@@ -23,7 +23,7 @@
 
 ### 🧰 Languages, Frameworks, and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,react,nodejs,express,mysql,postgresql,git,vscode,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,react,nodejs,express,mysql,postgresql,git,vscode,figma" />
 </p>
 
 ---
