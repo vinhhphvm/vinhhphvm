@@ -1,7 +1,7 @@
 ## Hey! I'm Vinh 👋  
 
 🎓 **Undergraduate CS Student @ Arizona State University**  
-💼 **Field Marketing Associate & Aspiring Software Developer**  
+💼 **Aspiring Software Developer**  
 💻 **Passionate about building tools that blend creativity and technology**
 
 ---
